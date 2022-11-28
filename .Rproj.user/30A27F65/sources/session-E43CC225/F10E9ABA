@@ -1,0 +1,31 @@
+{
+    "id": "F10E9ABA",
+    "path": "~/christinanj-wong.github.io/thepond.qmd",
+    "project_path": "thepond.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1669660116072.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "116:0",
+        "cursorPosition": "4,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669660105,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669660105,
+    "read_only": false,
+    "read_only_alternatives": []
+}

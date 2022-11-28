@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Christina Wong"
+  site-url: "christinanj-wong.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: thepond.qmd
+        text: The Pond
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+
+freeze: auto 
