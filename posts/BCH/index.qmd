@@ -1,0 +1,7 @@
+---
+title: "Gel Filtration Chromatography Flow Diagram"
+description: "Created using Adobe InDesign to illustrate the procedure for gel filtration chromatography."
+categories: [Illustration, Educational Infographic]
+---
+
+![](images/Lab%204%20Flow%20Chart1%20copy.jpg)

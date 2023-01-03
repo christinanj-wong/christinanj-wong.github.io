@@ -1,7 +1,7 @@
 ---
 title: "Sponsorship Package Design (2) for Synbio Team"
 description: "The 2020 sponsorship package for iGEM Toronto was designed to introduce the iGEM competition, our team, and our research project to potential departmental and company sponsors. The graphics and layout of the package were created using Adobe InDesign."
-categories: [Publication Design]
+categories: [Publication Design, Illustration]
 ---
 
 ![](images/iGEM%20Sponsorship%20Package%202021%20copy.jpg)
