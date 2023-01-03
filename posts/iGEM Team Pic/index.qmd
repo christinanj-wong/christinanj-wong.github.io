@@ -1,0 +1,7 @@
+---
+title: "Team Picture Illustration for Synbio Team"
+description: "During the pandemic, our synthetic biology team was unable to meet in-person to take a team photo together. But our team spirit thrived virtually through this illustrated team picture! Go iGEM TO! This illustration was created using Inkscape." 
+categories: [Illustration]
+---
+
+![](images/iGEM%20Team%20Picture_Edit%20copy.png)

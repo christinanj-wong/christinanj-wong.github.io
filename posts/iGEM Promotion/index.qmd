@@ -1,0 +1,9 @@
+---
+title: "Promotional Posters for Synbio Research Team"
+description: "These posters were created to promote Open House events for iGEM Toronto (a student-led synthetic biology team at the University of Toronto). Created using Inkscape." 
+categories: [Illustration, Marketing Design]
+---
+
+![](images/iGEM%20open%20house%20poster%20copy.png)
+
+![](images/Open%20House%202020%20Printing%20EDIT1%20copy.png)

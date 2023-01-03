@@ -6,17 +6,20 @@ website:
   title: "Christina Wong"
   site-url: "christinanj-wong.github.io"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - href: thepond.qmd
-        text: The Pond
-      - href: blog.qmd
-        text: Blog
-
+      - href: work.qmd
+        text: Work
+      - href: about.qmd
+        text: About
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christinanjwong/
+      - icon: github
+        href: https://github.com/christinanj-wong
 format:
   html:
-    theme: solar
+    theme: minty
     css: styles.css
     toc: true
 

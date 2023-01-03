@@ -1,9 +1,15 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/work.html",
     "items": [
-      "/posts/blog1/index.html",
-      "/posts/blog2/index.html"
+      "/posts/iGEM Team Pic/index.html",
+      "/posts/iGEM T-Shirt/index.html",
+      "/posts/Celebration Event/index.html",
+      "/posts/iGEM SP2/index.html",
+      "/posts/iGEM SP1/index.html",
+      "/posts/iGEM Promotion/index.html",
+      "/posts/CECCS Logo/index.html",
+      "/posts/Introduction to CECCS Subcommittees Instagram Post /index.html"
     ]
   }
 ]

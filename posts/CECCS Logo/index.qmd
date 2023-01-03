@@ -1,0 +1,11 @@
+---
+title: "Logo Design - CECCS"
+description: "A series of logos designed to represent the team of interns at the President's Advisory Committee for Climate Change, Environment, and Sustainability (CECCS) at the University of Toronto. Created using Adobe Illustrator and InDesign."
+categories: [Illustration]
+---
+
+![](images/CECCS%20Interns%20Logo-03%20copy.png){fig-align="left"}
+
+![](images/CECCS%20Interns%20Logo-07%20copy.png){fig-align="center"}
+
+![](images/CECCS%20Interns%20Logo-08%20copy.png){fig-align="right"}

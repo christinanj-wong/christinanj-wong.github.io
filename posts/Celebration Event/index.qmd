@@ -1,0 +1,19 @@
+---
+title: "Sustainability Event Graphics"
+description: "Visual branding for the Adams Sustainability Celebration Event at the University of Toronto. The event website landing page and banners, and event calendar were created using Adobe Illustrator and InDesign."
+categories: [Illustration, Marketing Design]
+---
+
+![](images/Landing_Page_2.1%20copy%202.jpg)
+
+![](images/Landing_Page_1%20copy.jpg)
+
+![](images/Adams_Innovation_Prize_Long_Banner%20copy.jpg)
+
+![](images/Adams_Sustainability_Student_Grant_Long_Banner%20copy%202.jpg)
+
+![](images/Faculty_Grant_Long_Banner%20copy.jpg)
+
+![](images/Celebration_Overview_Long_Banner%20copy%20copy%202.jpg)
+
+![](images/Events%20Calendar%20copy.jpg)

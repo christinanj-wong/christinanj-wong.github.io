@@ -19,5 +19,38 @@
   },
   "posts/blog2/index.qmd": {
     "index.html": "c075e284"
+  },
+  "work.qmd": {
+    "work.html": "8f892cfd"
+  },
+  "posts/Educational Infographics/index.qmd": {
+    "index.html": "36839370"
+  },
+  "posts/Marketing Design/index.qmd": {
+    "index.html": "1443cc4e"
+  },
+  "posts/Celebration Event/index.qmd": {
+    "index.html": "f7ff9ffb"
+  },
+  "posts/CECCS Logo/index.qmd": {
+    "index.html": "a7a63d19"
+  },
+  "posts/iGEM Promotion/index.qmd": {
+    "index.html": "aeddfb35"
+  },
+  "posts/Introduction to CECCS Subcommittees Instagram Post /index.qmd": {
+    "index.html": "2824547c"
+  },
+  "posts/iGEM T-Shirt/index.qmd": {
+    "index.html": "3bdd2406"
+  },
+  "posts/iGEM Team Pic/index.qmd": {
+    "index.html": "e9851721"
+  },
+  "posts/iGEM SP2/index.qmd": {
+    "index.html": "1e3ee908"
+  },
+  "posts/iGEM SP1/index.qmd": {
+    "index.html": "c226028b"
   }
 }

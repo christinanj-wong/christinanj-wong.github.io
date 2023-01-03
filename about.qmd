@@ -1,0 +1,27 @@
+---
+title: Hi there, I'm Christina!
+image: images/mountain.jpg
+about:
+  template: broadside
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christinanjwong/
+    - icon: github
+      text: Github
+      href: https://github.com/christinanj-wong
+---
+
+I am a Master of Health Sciences (MHSc) candidate in the Translational Research Program (TRP) at the University of Toronto who loves leveraging the power of visual design to communicate ideas and engage communities. I also have a keen interest in infectious disease and clinical microbiology laboratory diagnostics. But when I'm not in the lab or classroom, I love tinkering with graphic design and UX Design tools, and exploring the food scene in Toronto.
+
+## What I'm Passionate About
+
+Improving clinical microbiology diagnostics \| Gender equity in STEM \| Health innovation
+
+## What I'm Learning
+
+User experience (UX) Design \| Web Development \| 3D Modelling
+
+## My Favourie Graphic Design Tools
+
+Inkscape | Adobe InDesign | Adobe Illustrator | Pencil and Notebook

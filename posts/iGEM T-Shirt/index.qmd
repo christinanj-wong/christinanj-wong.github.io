@@ -1,0 +1,7 @@
+---
+title: "T-shirt Design for Synbio Team"
+description: "This graphic was designed to be printed on the team T-shirts for iGEM Toronto, a competitive student-led synthetic biology team at the University of Toronto. It was created using Inkscape.  " 
+categories: [Illustration]
+---
+
+![](images/iGEM%20sciency%20letter%20copy.png)
