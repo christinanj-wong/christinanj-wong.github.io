@@ -1,0 +1,9 @@
+---
+title: "Low-Poly Animal Illustrations"
+description: "Low-poly fox and bird illustrations created using Inkscape."
+categories: [Illustration]
+---
+
+![](images/Low%20Poly%20Fox%20copy.png)
+
+![](images/Christina%20Wong%20Low-Poly%20Bird%20copy.png)

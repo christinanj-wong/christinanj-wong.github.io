@@ -1,0 +1,9 @@
+---
+title: "Fox Illustration"
+description: "Cartoon fox illustrations vectored using Inkscape."
+categories: [Illustration]
+---
+
+![](images/fox1.png)
+
+![](images/fox2.png)

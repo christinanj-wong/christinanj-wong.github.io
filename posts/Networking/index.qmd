@@ -1,0 +1,9 @@
+---
+title: "Networking Tip Sheet"
+description: "This networking guide handout was designed to support the biannual networking event hosted by Women in Science and Engineering (WISE) University of Toronto Chapter, and was created using Adobe InDesign."
+categories: [Publication Design]
+---
+
+![](images/Virtual%20Networking%20Tips%20Sheet.jpg)
+
+![](images/Virtual%20Networking%20Tips%20Sheet2.jpg)
